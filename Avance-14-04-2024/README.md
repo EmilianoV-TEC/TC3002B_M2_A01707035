@@ -1,7 +1,7 @@
 # Actividad 2.1 Generación o selección del set de datos y Actividad 2.2 Preprocesado de los datos
 ### Emiliano Vásquez Olea - A01707035
 
-Archivos: Traffic_Sign_Autoencoder_A01707035
+Archivos: Traffic_Sign_Autoencoder_A01707035.py
 
 Requisitos: Una versión actualizada de **Python 3** junto con las librerías **numpy**, **matplotlib**, **seaborn** y **tensorflow 2 (con keras)**
 
